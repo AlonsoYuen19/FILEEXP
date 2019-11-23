@@ -1,0 +1,8 @@
+﻿  Source.cpp
+e:\algoritmos 2\filexp (3)\filexp\filexp\registro.h(78): warning C4018: '<': signed/unsigned mismatch
+e:\algoritmos 2\filexp (3)\filexp\filexp\Director.h(29): warning C4244: 'argument': conversion from 'uintmax_t' to 'long', possible loss of data
+e:\algoritmos 2\filexp (3)\filexp\filexp\registro.h(91): warning C4715: 'Registro::operator==': not all control paths return a value
+e:\algoritmos 2\filexp (3)\filexp\filexp\source.cpp(102): warning C4700: uninitialized local variable 'orden1' used
+  Source.obj : /DEBUG:FASTLINK is not supported when managed code is present; restarting link with /DEBUG:FULL
+  FILEXP.vcxproj -> E:\Algoritmos 2\FILEXP (3)\FILEXP\Debug\FILEXP.exe
+  FILEXP.vcxproj -> E:\Algoritmos 2\FILEXP (3)\FILEXP\Debug\FILEXP.pdb (Partial PDB)
